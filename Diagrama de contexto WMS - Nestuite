@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T16:52:04.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="03FgRDncqcxlew3AYCZt" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T16:52:26.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="edPGc4o0BvhPYRNf-Rr_" version="17.0.0" type="github">
   <diagram id="vzVtRnjwlc-GKpAvB-X4" name="Page-1">
     <mxGraphModel dx="1422" dy="1613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
           <mxGeometry x="202" y="425" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O1gFAxjgvEGOPaGRUFRS-2" value="&lt;h1&gt;Procedimiento salida&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="379" width="411" height="50" as="geometry" />
+          <mxGeometry x="441" width="261" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O1gFAxjgvEGOPaGRUFRS-4" value="&lt;span&gt;Factura / Transferencia oficial&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242" y="75" width="120" height="60" as="geometry" />
