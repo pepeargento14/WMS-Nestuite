@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T17:33:14.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="4A8FhOoLH59F_SgH_mpU" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T17:33:32.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="3O_jljpwcgM1r0NKDqCD" version="16.6.7" type="github">
   <diagram id="vzVtRnjwlc-GKpAvB-X4" name="Page-1">
     <mxGraphModel dx="1108" dy="2128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O1gFAxjgvEGOPaGRUFRS-2" value="&lt;h1&gt;Procedimiento salida&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="479" y="-1600" width="261" height="40" as="geometry" />
+        <mxCell id="O1gFAxjgvEGOPaGRUFRS-2" value="&lt;h1&gt;Procedimiento Ingreso&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="479" y="-1600" width="271" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O1gFAxjgvEGOPaGRUFRS-22" value="&lt;h1&gt;Procedimiento Ingreso&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="479" y="-1040" width="279" height="40" as="geometry" />
